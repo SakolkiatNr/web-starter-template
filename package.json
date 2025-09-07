@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/SakolkiatNr/web-starter-template/issues"
   },
-  "homepage": "https://github.com/SakolkiatNr/web-starter-template#readme"
+  "homepage": "https://github.com/SakolkiatNr/web-starter-template#readme",
+  "devDependencies": {
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1"
+  }
 }
